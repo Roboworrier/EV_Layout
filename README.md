@@ -1,6 +1,7 @@
-![Screenshot 2023-02-02 151423](https://user-images.githubusercontent.com/91152334/221347816-a541d8ee-6bfc-49e7-9a5f-4a9c39c3f206.png)
-![Screenshot 2023-02-02 151104](https://user-images.githubusercontent.com/91152334/221347761-ec0abb98-614e-431e-aad0-055fbd8bbe9a.png)
-![Screenshot 2023-02-02 151423](https://user-images.githubusercontent.com/91152334/221347786-1d197c4e-e9a4-4766-ba7e-97373a37341e.png)
+![Screenshot 2023-02-02 151104](https://user-images.githubusercontent.com/91152334/221347832-9c9d1800-5853-4f8a-99e2-c02ade2666a1.png)
+![Screenshot 2023-02-02 151335](https://user-images.githubusercontent.com/91152334/221347838-80ef52c7-1e68-442d-9e6c-965e27e20301.png)
+![Screenshot 2023-02-02 151423](https://user-images.githubusercontent.com/91152334/221347847-ec114cf0-f841-40a8-a0dc-d9bc70a6d540.png)
+
 # EV_Layout
 •Used Simulink to create live Electrical Vehicle working Layout and System connections.
 • Matlab provides us with a strong tool named smilulink which helps us to develop any mechanical or electrical utility layout or Power input output simulation.
